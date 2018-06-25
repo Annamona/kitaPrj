@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(to top right, #FFFFFF 0%, #AACFEF 100%);
+  padding-top: 100px;
+}
+
+.container{
+  padding:50px;
+}
+
+.navigations{
+  padding-top: 50px;
+  padding-left:50px;
+  width: 100%;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  font-size: 100px;
+  background-color: #AACFEF;
+}
